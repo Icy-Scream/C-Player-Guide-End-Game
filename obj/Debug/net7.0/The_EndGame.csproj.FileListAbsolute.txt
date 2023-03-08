@@ -1,0 +1,30 @@
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.exe
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.deps.json
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.runtimeconfig.json
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.dll
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.pdb
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.csproj.AssemblyReference.cache
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.AssemblyInfoInputs.cache
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.AssemblyInfo.cs
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.csproj.CoreCompileInputs.cache
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.dll
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\refint\The_EndGame.dll
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.pdb
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.genruntimeconfig.cache
+C:\Users\formu\OneDrive\Documents\Coding\CSharp_Projects\The_EndGame\obj\Debug\net7.0\ref\The_EndGame.dll
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.exe
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.deps.json
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.runtimeconfig.json
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.dll
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\bin\Debug\net7.0\The_EndGame.pdb
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.dll
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\refint\The_EndGame.dll
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.pdb
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\The_EndGame.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Software Engineering\CSharp Player Guide\CSharp_Projects\The_EndGame\obj\Debug\net7.0\ref\The_EndGame.dll
